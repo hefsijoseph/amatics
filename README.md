@@ -3,7 +3,7 @@
 ## This website is dedicated to showcasing Amatics Technologies and its innovative services, including various software solutions and IT services.
 
 
-### Using technology to maximize efficiency
+### Using technology to maximize efficiency :boom:
 
 
 ![Image](https://github.com/user-attachments/assets/a7315d2d-b2f2-4da5-942a-c661cd8e9fc8)
