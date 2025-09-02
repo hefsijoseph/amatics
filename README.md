@@ -1,6 +1,6 @@
 # Amatics Technologies
 
-## This website is dedicated to showcasing Amatics Technologies <br>and its innovative services, including 
+## :pushpin: This website is dedicated to showcasing Amatics Technologies <br>and its innovative services, including 
 - Software
   - Every software you need to run <br> your business!<br>We craft customer-centric software that are
   <br>scalable,
