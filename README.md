@@ -1,4 +1,4 @@
-# Amatics Technologies
+#  :file_folder: Amatics Technologies
 
 ## :pushpin: This website is dedicated to showcasing Amatics Technologies <br>and its innovative services, including 
 - Software
