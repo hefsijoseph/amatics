@@ -2,7 +2,7 @@
 
 ## This website is dedicated to showcasing Amatics Technologies and its innovative services, including 
 - Software
-  - Every software you need to run your<br>business!<br>We craft customer-centric software that are
+  - Every software you need to run <br> your business!<br>We craft customer-centric software that are
   <br>scalable,
   affordable and flexible.
 - Bulk Sms
