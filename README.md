@@ -8,14 +8,14 @@
 - Bulk Sms
   - It's all about promoting your business!<br>
     Integrate with your up and running business<br>
-    systems that need to send SMS. ie. loan, <br>payroll, accounting, school,hospital<br>
+    systems that need to send SMS. ie. loan, <br>payroll, accounting, school, <br>hospital
     software.
 - Web Services
   - Own and host stunning website just like this<br>one in the shortest time possible and make<br>
                 your business standout
 - Branding
-  We focus on different takes on brand<br>identity,inspiration and information for<br>anyone who is
-  interested in exelling at their <br>
+  - We focus on different takes on brand<br>identity,inspiration and information for<br>anyone who is
+  interested in exelling at  <br> their
   game.
 - Training
   - Train with the best to become one of them.<br>We unleash the genius of coding creating <br> more
@@ -24,7 +24,7 @@
 - IT Services
   - We deliver IT consultancy services and <br>business IT support for organisations. <br> By partening with
   us, we can help lead your <br>
-  organisation forward with highly-effective<br>
+  organisation forward with <br> highly-effective
   strategies.
 
 ### Using technology to maximize efficiency :boom:
